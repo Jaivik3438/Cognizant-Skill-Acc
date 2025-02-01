@@ -1,3 +1,4 @@
+# Task 2 - Operators: Playing with Numbers
 # Defining two numbers to work with
 num1 = 30
 num2 = 20
